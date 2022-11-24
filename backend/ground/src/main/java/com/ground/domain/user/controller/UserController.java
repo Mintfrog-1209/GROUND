@@ -61,7 +61,7 @@ public class UserController {
 	@Autowired
 	SocialOauth socialOauth;
 	
-
+    //---------------------------------PJW---------------------
 	
 	@PersistenceContext
 	EntityManager em;
